@@ -40,7 +40,7 @@ github.com/docker/docker/pkg/term
 github.com/docker/docker/pkg/term/windows
 # github.com/docker/go-connections v0.3.0
 github.com/docker/go-connections/nat
-# github.com/docker/go-units v0.3.3
+# github.com/docker/go-units v0.4.0
 github.com/docker/go-units
 # github.com/fsouza/go-dockerclient v1.2.1
 github.com/fsouza/go-dockerclient
@@ -51,8 +51,6 @@ github.com/gogo/protobuf/proto
 # github.com/jmoiron/sqlx v1.2.0
 github.com/jmoiron/sqlx
 github.com/jmoiron/sqlx/reflectx
-# github.com/konsorten/go-windows-terminal-sequences v1.0.1
-github.com/konsorten/go-windows-terminal-sequences
 # github.com/mattn/goveralls v0.0.3-0.20190605103025-4d9899298d21
 github.com/mattn/goveralls
 # github.com/mitchellh/go-wordwrap v1.0.0
@@ -64,14 +62,14 @@ github.com/opencontainers/go-digest
 # github.com/opencontainers/image-spec v1.0.1
 github.com/opencontainers/image-spec/specs-go
 github.com/opencontainers/image-spec/specs-go/v1
-# github.com/opencontainers/runc v1.0.0-rc5
+# github.com/opencontainers/runc v1.1.2
 github.com/opencontainers/runc/libcontainer/system
 github.com/opencontainers/runc/libcontainer/user
 # github.com/pkg/errors v0.8.0
 github.com/pkg/errors
 # github.com/pmezard/go-difflib v1.0.0
 github.com/pmezard/go-difflib/difflib
-# github.com/sirupsen/logrus v1.4.2
+# github.com/sirupsen/logrus v1.8.1
 github.com/sirupsen/logrus
 # github.com/skeema/mybase v1.0.8
 github.com/skeema/mybase
@@ -82,11 +80,12 @@ golang.org/x/crypto/ssh/terminal
 # golang.org/x/lint v0.0.0-20190409202823-959b441ac422
 golang.org/x/lint
 golang.org/x/lint/golint
-# golang.org/x/net v0.0.0-20190620200207-3b0461eec859
+# golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 golang.org/x/net/context
 # golang.org/x/sync v0.0.0-20190423024810-112230192c58
 golang.org/x/sync/errgroup
-# golang.org/x/sys v0.0.0-20190422165155-953cdadca894
+# golang.org/x/sys v0.0.0-20211116061358-0a5406a5449c
+golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
 # golang.org/x/tools v0.0.0-20190903163617-be0da057c5e3
